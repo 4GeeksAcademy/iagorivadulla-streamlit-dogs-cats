@@ -1,5 +1,5 @@
 streamlit
-tensorflow==2.10.0
+tensorflow==2.14
 huggingface_hub==0.24.6
 numpy==1.26.4
 Pillow
