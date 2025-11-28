@@ -1,1 +1,1 @@
-web: gunicorn src.app:app
+streamlit run src/app.py --server.port $PORT --server.address 0.0.0.0 --theme.base dark
